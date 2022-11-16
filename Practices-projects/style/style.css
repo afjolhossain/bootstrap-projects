@@ -1,0 +1,60 @@
+.carousal-bg {
+  background-color: #feeae9;
+}
+.container-carosal {
+  margin-top: 150px;
+}
+
+.banner-btn {
+  background-color: #ff589b;
+  color: white;
+  border: none;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+}
+.nav-item .nav-link {
+  font-size: 20px;
+  font-weight: 700;
+}
+.nav-item .nav-link:hover {
+  color: #ff589b;
+}
+.banner-price {
+  color: #ff589b;
+}
+.images img {
+  height: 450px;
+}
+.categories-watch {
+  background-color: #ff9c35;
+  color: white;
+}
+.categories-bag {
+  background-color: #ff589b;
+  color: white;
+}
+.categories-sohes {
+  background-color: #4289ff;
+  color: white;
+}
+#subscribe {
+  margin-top: 50px;
+  background-color: #fff2f1;
+}
+.btn-subscribe {
+  width: 70px;
+  height: 40px;
+  background-color: #ff589b;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  font-weight: 700px;
+  border: none;
+}
+.input-field {
+  padding: 10px;
+  width: 300px;
+  border: none;
+  border-radius: 10px;
+}
